@@ -1,0 +1,15 @@
+{
+  "name": "k6reqres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "k6 run src/tests/registerUserLoadTest.js"
+  },
+  "keywords": [
+    "k6",
+    "loadtest"
+  ],
+  "author": "Juan Felipe Gomez",
+  "license": "ISC",
+  "description": ""
+}
